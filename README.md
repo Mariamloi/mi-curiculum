@@ -17,6 +17,6 @@ proyectos.
 enlaces
 - Información de contacto
 ## Ver online
-https://usuario.github.io/cv/
+https://mariamloi.github.io/mi-curiculum/
 ## Autor
 Mariano
